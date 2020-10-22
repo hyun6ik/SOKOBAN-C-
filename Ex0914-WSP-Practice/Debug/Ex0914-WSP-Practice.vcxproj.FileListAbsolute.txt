@@ -1,2 +1,4 @@
 C:\WSP\Ex0914-WSP-Practice\Debug\Ex0914-WSP-Practice.exe
 C:\WSP\Ex0914-WSP-Practice\Debug\Ex0914-WSP-Practice.pdb
+C:\WSP\SOKOBAN C++\Ex0914-WSP-Practice\Debug\Ex0914-WSP-Practice.exe
+C:\WSP\SOKOBAN C++\Ex0914-WSP-Practice\Debug\Ex0914-WSP-Practice.pdb
